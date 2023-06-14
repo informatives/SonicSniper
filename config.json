@@ -1,0 +1,33 @@
+{
+    "sniping_token": "MTEwMzkwNzQ1MDM0NTc2Njk1NQ.GuGceg.FWZNGIH9T2N9KyKCYCXgKWRplROpYyxlkBjn4s",
+    "logging": {
+        "ratelimit": {
+            "token": "rbL9raTlZGmVBi86BZnDKhLZ_7u1P52E24PVVp7zSmtNhaIqRUoqTyY91WXngSo0DFdm",
+            "id": "1114378697043091547"
+        },
+        "successs": {
+            "token": "rbL9raTlZGmVBi86BZnDKhLZ_7u1P52E24PVVp7zSmtNhaIqRUoqTyY91WXngSo0DFdm",
+            "id": "1114378697043091547"
+        },
+        "errror": {
+            "token": "rbL9raTlZGmVBi86BZnDKhLZ_7u1P52E24PVVp7zSmtNhaIqRUoqTyY91WXngSo0DFdm",
+            "id": "1114378697043091547"
+        }
+    },
+    "target_servers": [
+        "1112639901775704087",
+        "1110600342934126764",
+        "1098195550702145538"
+    ],
+    "target_vanity": {
+        "1112639901775704087": "hcaptchaaawwm",
+        "1110600342934126764": "bby",
+        "1098195550702145538": "hcaptcha"
+    },
+    "upgraded_servers": [
+        {
+            "token": "MTEwMzkwNzQ1MDM0NTc2Njk1NQ.GuGceg.FWZNGIH9T2N9KyKCYCXgKWRplROpYyxlkBjn4s",
+            "server_id": "1098195550702145538"
+        }
+    ]
+}
